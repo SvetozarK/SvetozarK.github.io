@@ -1,14 +1,14 @@
 ## Svetozar Kanovski
 
 
-### Markdown
+### This is my own site.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# studies
+-for Java Junior Developer
 ## Header 2
 ### Header 3
 
